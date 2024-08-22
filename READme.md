@@ -2,7 +2,6 @@ Snake Game
 The snake game included in this project is a classic implementation of the well-known arcade game. The objective is to control a snake as it moves around the screen, collecting food to grow longer. The game ends when the snake runs into the walls or itself.
 
 Game Features:
-
 Movement: Use the arrow keys to navigate the snake.
 Food Collection: Each piece of food the snake eats increases its length and the player's score.
 Audio Feedback: The game includes sound effects for collecting food, moving, and when the game is over. Background music plays throughout the game to enhance the experience.
