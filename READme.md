@@ -15,30 +15,6 @@ Audio: The game includes sound effects (food.mp3, gameover.mp3, move.mp3) and ba
 This game is fully integrated within the main project and can be accessed directly via the index.html file in the snake directory.
 
 
-Project Structure
-plaintext
-Copy code
-project/
-│
-├── index.html           # Main HTML file
-├── Resources.txt        # References and resources used in the project
-├── css/
-│   └── style.css        # Main CSS stylesheet
-├── js/
-│   └── index.js         # Main JavaScript file
-└── snake/               # Snake game files
-    ├── index.html       # Snake game HTML file
-    ├── css/
-    │   └── style.css    # Snake game CSS stylesheet
-    ├── js/
-    │   └── index.js     # Snake game JavaScript file
-    ├── bg.jpg           # Background image for the snake game
-    ├── bj.jpg           # Additional image used in the snake game
-    ├── sn.jpg           # Snake image used in the snake game
-    ├── food.mp3         # Audio for snake game food collection
-    ├── gameover.mp3     # Audio for snake game over event
-    ├── move.mp3         # Audio for snake movement
-    └── music.mp3        # Background music for the snake game
 How to Run the Project
 Clone or Download the Repository:
 Download the project files or clone the repository to your local machine.
